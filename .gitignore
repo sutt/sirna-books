@@ -5,3 +5,5 @@ libs/
 data_raw/
 sample_imgs/
 .ipynb_checkpoints/
+data/
+utils/
